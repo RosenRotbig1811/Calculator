@@ -1,0 +1,18 @@
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\василий\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\YandexDisk\Университет\Лучшие проекты\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
